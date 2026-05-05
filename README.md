@@ -1,3 +1,4 @@
+<img width="1396" height="784" alt="Screenshot 2026-05-05 at 12 56 46" src="https://github.com/user-attachments/assets/535ef997-5817-4f8a-b4ac-b6c8e2175758" />
 # Blinking-LED
 ## About
 This program demonstrates simple Arduino setup that can blink two **LEDs** in sync. You can use simulators like [TinkerCad](https://www.tinkercad.com/dashboard) and [Wokwi](https://wokwi.com/) to simulate this program incase you don't have any physical devices.
