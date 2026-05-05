@@ -2,7 +2,10 @@
 ## About
 This program demonstrates simple Arduino setup that can blink two **LEDs** in sync. You can use simulators like [TinkerCad](https://www.tinkercad.com/dashboard) and [Wokwi](https://wokwi.com/) to simulate this program incase you don't have any physical devices.
 
-You can use Add multiple LEDs and modify their synchronizaiton accordingly.
+
+You can Add multiple LEDs and modify their synchronizaiton accordingly.
+
+You can see my project [here](https://wokwi.com/projects/463167114024859649).
 
 
 ## Program features
